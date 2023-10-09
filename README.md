@@ -10,7 +10,7 @@ Read through this README file and the Mina Protocol [zkApp Developer](https://do
 
 Build foundational knowledge by completing the guided steps in the [zkApp Developer Tutorials](https://docs.minaprotocol.com/zkapps/tutorials).
 
-## Get Involved -- will do!
+## Get Involved 
 
 To learn about ways to participate and interact with community members, see the Mina [Online Communities](https://docs.minaprotocol.com/participate/online-communities) docs.
 
